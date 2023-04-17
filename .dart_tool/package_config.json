@@ -135,7 +135,7 @@
     },
     {
       "name": "in_app_purchase_android",
-      "rootUri": "../../in_app_purchase_android-0.2.3+5",
+      "rootUri": "file:///Users/DCalabrese/Documents/flutter/.pub-cache/git/in_app_purchase_android-0.2.3_5-ca618e1af157f134715896b38dd30570d8e5cae4/",
       "packageUri": "lib/",
       "languageVersion": "2.14"
     },
@@ -404,7 +404,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2023-04-17T15:01:26.216488Z",
+  "generated": "2023-04-17T16:09:23.486542Z",
   "generator": "pub",
   "generatorVersion": "2.18.2"
 }

@@ -150,9 +150,11 @@ packages:
   in_app_purchase_android:
     dependency: "direct main"
     description:
-      path: "../in_app_purchase_android-0.2.3+5"
-      relative: true
-    source: path
+      path: "."
+      ref: HEAD
+      resolved-ref: ca618e1af157f134715896b38dd30570d8e5cae4
+      url: "https://github.com/dcalabrese22/in_app_purchase_android-0.2.3_5"
+    source: git
     version: "0.2.3+5"
   in_app_purchase_platform_interface:
     dependency: "direct main"
